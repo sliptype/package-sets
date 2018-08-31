@@ -1192,6 +1192,19 @@
     "repo": "https://github.com/purescript/purescript-orders.git",
     "version": "v4.0.0"
   },
+  "outwatch": {
+      "dependencies": [
+        "affjax",
+        "console",
+        "foldable-traversable",
+        "prelude",
+        "profunctor",
+        "rxps",
+        "snabbdom"
+      ],
+      "repo": "https://github.com/OutWatch/purescript-outwatch.git",
+      "version": "v0.4.3"
+  },
   "pairing": {
     "dependencies": [
       "free",
