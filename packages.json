@@ -1616,6 +1616,11 @@
     "repo": "https://github.com/bodil/purescript-smolder.git",
     "version": "v11.0.0"
   },
+  "snabbdom": {
+      "dependencies": [],
+      "repo": "https://github.com/LukaJCB/purescript-snabbdom.git",
+      "version": "v0.2.3"
+  },
   "spec": {
     "dependencies": [
       "aff",
