@@ -1566,6 +1566,21 @@
     "repo": "https://github.com/natefaubion/purescript-run.git",
     "version": "v2.0.0"
   },
+  "rxps": {
+    "dependencies": [
+      "aff",
+      "arrays",
+      "console",
+      "dom",
+      "exceptions",
+      "functions",
+      "maps",
+      "prelude",
+      "st"
+    ],
+    "repo": "https://github.com/LukaJCB/purescript-rxps.git",
+    "version": "v1.7.0"
+  },
   "semirings": {
     "dependencies": [
       "foldable-traversable",
