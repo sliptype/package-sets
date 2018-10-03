@@ -1646,8 +1646,8 @@
   },
   "snabbdom": {
       "dependencies": [],
-      "repo": "https://github.com/LukaJCB/purescript-snabbdom.git",
-      "version": "v0.2.3"
+      "repo": "https://github.com/sliptype/purescript-snabbdom.git",
+      "version": "v1.0.1"
   },
   "spec": {
     "dependencies": [
