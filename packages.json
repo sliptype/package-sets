@@ -1591,8 +1591,8 @@
       "prelude",
       "st"
     ],
-    "repo": "https://github.com/LukaJCB/purescript-rxps.git",
-    "version": "v1.7.0"
+    "repo": "https://github.com/sliptype/purescript-rxps.git",
+    "version": "v1.8.0"
   },
   "semirings": {
     "dependencies": [
