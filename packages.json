@@ -1586,9 +1586,10 @@
       "console",
       "exceptions",
       "functions",
-      "maps",
+      "ordered-collections",
       "prelude",
-      "st"
+      "st",
+      "web-events"
     ],
     "repo": "https://github.com/sliptype/purescript-rxps.git",
     "version": "v1.8.0"
