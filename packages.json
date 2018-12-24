@@ -1646,6 +1646,7 @@
   },
   "snabbdom": {
       "dependencies": [
+        "foreign-object",
         "maybe",
         "web-dom"
       ],
