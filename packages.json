@@ -1653,6 +1653,13 @@
       "repo": "https://github.com/sliptype/purescript-snabbdom.git",
       "version": "v1.0.5"
   },
+  "snabbdom-helpers": {
+      "dependencies": [
+        "snabbdom"
+      ],
+      "repo": "https://github.com/sliptype/purescript-snabbdom-helpers.git",
+      "version": "v0.0.0"
+  },
   "spec": {
     "dependencies": [
       "aff",
